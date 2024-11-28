@@ -30,8 +30,8 @@
       [
         "airbridge-expo-sdk",
         {
-          "appName": "atlas",
-          "appToken": "e31c10b5f7c540f7b9f15a4641556036"
+          "appName": "YOUR_APP_NAME",
+          "appToken": "YOUR_APP_TOKEN"
         }
       ],
       [
